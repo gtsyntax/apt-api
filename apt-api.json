@@ -4,8 +4,8 @@
         "price": "700",
         "imageUrl": "http://res.cloudinary.com/djshzjrx8/image/upload/v1523014215/apt6_bwfx4f.jpg",
         "priceCurrency": "TL",
-        "lat": "37.874641",
-        "lng": "32.493156"
+        "lat": "41.016916094012934",
+        "lng": "28.97187868302001"
     },
 
     {
@@ -13,8 +13,8 @@
         "price": "1900",
         "imageUrl": "http://res.cloudinary.com/djshzjrx8/image/upload/v1523014217/apt5_saii2o.jpg",
         "priceCurrency": "TL",
-        "lat": "37.783333",
-        "lng": "29.094715"
+        "lat": "41.017728658794894",
+        "lng": "28.940820693969727"
     },
 
     {
@@ -22,8 +22,8 @@
         "price": "900",
         "imageUrl": "http://res.cloudinary.com/djshzjrx8/image/upload/v1523014216/apt4_lj1iu0.jpg",
         "priceCurrency": "TL",
-        "lat": "37.768002",
-        "lng": "30.561905"
+        "lat": "41.08324042436065",
+        "lng": "28.905160842876057"
     },
 
     {
@@ -31,8 +31,8 @@
         "price": "500",
         "imageUrl": "http://res.cloudinary.com/djshzjrx8/image/upload/v1523014218/apt3_wbtj9u.jpg",
         "priceCurrency": "TL",
-        "lat": "41.451733",
-        "lng": "31.791344"
+        "lat": "41.06782822924037",
+        "lng": "29.01104699925736"
     },
 
     {
@@ -40,8 +40,8 @@
         "price": "2300",
         "imageUrl": "http://res.cloudinary.com/djshzjrx8/image/upload/v1523014217/apt5_saii2o.jpg",
         "priceCurrency": "TL",
-        "lat": "38.626995",
-        "lng": "34.719975"
+        "lat": "41.07041659974356",
+        "lng": "28.982430569200687"
     },
 
     {
@@ -49,7 +49,7 @@
         "price": "1700",
         "imageUrl": "http://res.cloudinary.com/djshzjrx8/image/upload/v1523014215/apt2_cxoo5f.jpg",
         "priceCurrency": "TL",
-        "lat": "41.025513",
-        "lng": "40.517666"
+        "lat": "41.07426661235249",
+        "lng": "28.993481270342045"
     }
 ]
