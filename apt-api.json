@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "name": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "price": "700",
         "imageUrl": "http://res.cloudinary.com/djshzjrx8/image/upload/v1523014215/apt6_bwfx4f.jpg",
@@ -9,6 +10,7 @@
     },
 
     {
+        "id": 2,
         "name": "Pellentesque in massa elementum, fringilla neque nec, eleifend arcu.",
         "price": "1900",
         "imageUrl": "http://res.cloudinary.com/djshzjrx8/image/upload/v1523014217/apt5_saii2o.jpg",
@@ -18,6 +20,7 @@
     },
 
     {
+        "id": 3,
         "name": "Nullam neque felis, ultricies ut mattis eget, tempus id sem.",
         "price": "900",
         "imageUrl": "http://res.cloudinary.com/djshzjrx8/image/upload/v1523014216/apt4_lj1iu0.jpg",
@@ -27,6 +30,7 @@
     },
 
     {
+        "id": 4,
         "name": "Etiam vulputate iaculis arcu, eget ultricies ante pellentesque.",
         "price": "500",
         "imageUrl": "http://res.cloudinary.com/djshzjrx8/image/upload/v1523014218/apt3_wbtj9u.jpg",
@@ -36,6 +40,7 @@
     },
 
     {
+        "id": 5,
         "name": "Curabitur non urna sed ipsum lobortis placerat ac ac libero.",
         "price": "2300",
         "imageUrl": "http://res.cloudinary.com/djshzjrx8/image/upload/v1523014217/apt5_saii2o.jpg",
@@ -45,6 +50,7 @@
     },
 
     {
+        "id": 6,
         "name": "Mauris vel pharetra eros. Nam eget justo vitae mauris.",
         "price": "1700",
         "imageUrl": "http://res.cloudinary.com/djshzjrx8/image/upload/v1523014215/apt2_cxoo5f.jpg",
